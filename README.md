@@ -19,9 +19,10 @@ a função de chat.
 ![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_1.png)
 ![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_2.png)
 ![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_3.png)
+![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_6.png)
 ![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_4.png)
 ![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_5.png)
-![alt text](https://github.com/Mafra-Chris/Hokusai/blob/main/hokusai%20screenshots/Screenshot_6.png)
+
 ## ⚙️Instalação
 ### Backend
 ```
