@@ -14,6 +14,7 @@ a função de chat.
 ### FastAPI
 ### SQLAlchemy
 ### PostGreSQL
+### PWA
 ## 🖼️ Imagens
 ## ⚙️Instalação
 ### Backend
